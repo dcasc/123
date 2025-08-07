@@ -1,0 +1,21 @@
+{
+  "title": "Магическая битва",
+  "description": "Тестовая манга для демонстрации Cubari. Здесь две главы, загруженные через Imgur.",
+  "artist": "Абуба",
+  "author": "Гэгэ Акутами",
+  "cover": "https://i.imgur.com/mMgtRva.png",
+  "chapters": {
+    "1": {
+      "title": "Глава 1 — Тест 1",
+      "groups": {
+        "Галаксия": "imgur:1-Ox0n06R"
+      }
+    },
+    "2": {
+      "title": "Глава 2 — Тест 2",
+      "groups": {
+        "Галаксия": "imgur:2-SZtbMgJ"
+      }
+    }
+  }
+}
