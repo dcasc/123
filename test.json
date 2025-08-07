@@ -8,13 +8,13 @@
     "1": {
       "title": "Глава 1 — Тест 1",
       "groups": {
-        "Магическая битва": "https://guya.moe/proxy/gist/jjk-pp-5Re5JM7/"
+        "Магическая битва": "/proxy/api/imgur/chapter/jjk-pp-5Re5JM7/"
       }
     },
     "2": {
       "title": "Глава 2 — Тест 2",
       "groups": {
-        "Магическая битва": "https://guya.moe/proxy/gist/toji-supremacy-w2Z2xIK/"
+        "Магическая битва": "/proxy/api/imgur/chapter/toji-supremacy-w2Z2xIK/"
       }
     }
   }
